@@ -1,0 +1,1 @@
+Project skeleton based on https://vaibhavsagar.com/blog/2019/10/29/getting-along-with-javascript/
